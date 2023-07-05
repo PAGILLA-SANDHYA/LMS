@@ -1,0 +1,17 @@
+D:\C# projects\LeaveMs\LeaveMs\bin\Debug\LeaveMs.exe.config
+D:\C# projects\LeaveMs\LeaveMs\bin\Debug\LeaveMs.exe
+D:\C# projects\LeaveMs\LeaveMs\bin\Debug\LeaveMs.pdb
+D:\C# projects\LeaveMs\LeaveMs\bin\Debug\Guna.UI.dll
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.csproj.AssemblyReference.cache
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.Employees.resources
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.Login.resources
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.Properties.Resources.resources
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.csproj.GenerateResource.cache
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.csproj.CoreCompileInputs.cache
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.csproj.CopyComplete
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.exe
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.pdb
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.Categories.resources
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.Leaves.resources
+D:\C# projects\LeaveMs\LeaveMs\obj\Debug\LeaveMs.ViewLeave.resources
